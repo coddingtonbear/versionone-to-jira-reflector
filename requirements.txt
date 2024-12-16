@@ -1,5 +1,5 @@
 six==1.9.0
-configobj==5.0.6
+configobj==5.0.9
 argparse==1.4.0
 v1pysdk-unofficial==0.4.post4
 jira==1.0.3
